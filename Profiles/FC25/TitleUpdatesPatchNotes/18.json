@@ -1,0 +1,620 @@
+{
+  "id": "687512dc19674369c0b4b463",
+  "address": null,
+  "badges": {
+    "attachments": 1,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "externalSource": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2025-07-17T10:17:02.231Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "Title Update #18 is now available for all versions of EA SPORTS FC 25, and it includes:\n\n**Ultimate Team**\n\nAddressed the following issues:\n\nSometimes, the Captain of a Rush lobby was not the team member in control of the goalkeeper.\n\n**Clubs**\n\nAddressed the following issues:\n\n- AI teammates did not display the Role + or Role ++ icons when viewing the players in the tactics screen.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some button callouts, portraits, kits, equipment, badges, as well as placeholder text and images.\n\nAddressed the following issues:\n\n- [PC Only] Addressed an issue where the EA Connect pop-up would not function when the Spotify widget was open.\n- Addressed some stability issues that could have occurred.\n- Addressed an issue where the Tactical Suggestions widget overlapped with other UI elements.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+  "descData": {
+    "emoji": {}
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [
+    "66b64c66fe2b82a1a0bd8245",
+    "5f73f7c1b4c1280a7068dfeb"
+  ],
+  "idList": "5f73f7c1b4c1280a7068df61",
+  "idMemberCreator": "5c48831d226ccb5009c3b830",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 534,
+  "idAttachmentCover": "6875136f8c2828fbc67e8793",
+  "labels": [
+    {
+      "id": "66b64c66fe2b82a1a0bd8245",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "EA SPORTS FC 25",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/66b64c66fe2b82a1a0bd8245",
+      "color": "black_dark",
+      "uses": 77
+    },
+    {
+      "id": "5f73f7c1b4c1280a7068dfeb",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "Title Update",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+      "color": "green",
+      "uses": 182
+    }
+  ],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manualCoverAttachment": true,
+  "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #18",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/687512dc19674369c0b4b463",
+  "pinned": false,
+  "pos": 1535.984375,
+  "shortLink": "A8PAB5lA",
+  "shortUrl": "https://trello.com/c/A8PAB5lA",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/A8PAB5lA/534-ps5-ps4-pc-xbsxs-xb1-switch-title-update-18",
+  "cover": {
+    "idAttachment": "6875136f8c2828fbc67e8793",
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "scaled": [
+      {
+        "id": "687513708c2828fbc67e8798",
+        "_id": "687513708c2828fbc67e8798",
+        "scaled": false,
+        "url": "https://trello.com/1/cards/687512dc19674369c0b4b463/attachments/6875136f8c2828fbc67e8793/previews/687513708c2828fbc67e8798/download/EA_SPORTS_FC_24_TU_%281%29.webp",
+        "bytes": 646,
+        "height": 50,
+        "width": 70
+      },
+      {
+        "id": "687513708c2828fbc67e879a",
+        "_id": "687513708c2828fbc67e879a",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/687512dc19674369c0b4b463/attachments/6875136f8c2828fbc67e8793/previews/687513708c2828fbc67e879a/download/EA_SPORTS_FC_24_TU_%281%29.webp",
+        "bytes": 1456,
+        "height": 26,
+        "width": 150
+      },
+      {
+        "id": "687513708c2828fbc67e8799",
+        "_id": "687513708c2828fbc67e8799",
+        "scaled": false,
+        "url": "https://trello.com/1/cards/687512dc19674369c0b4b463/attachments/6875136f8c2828fbc67e8793/previews/687513708c2828fbc67e8799/download/EA_SPORTS_FC_24_TU_%281%29.webp",
+        "bytes": 2860,
+        "height": 150,
+        "width": 250
+      },
+      {
+        "id": "687513708c2828fbc67e879b",
+        "_id": "687513708c2828fbc67e879b",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/687512dc19674369c0b4b463/attachments/6875136f8c2828fbc67e8793/previews/687513708c2828fbc67e879b/download/EA_SPORTS_FC_24_TU_%281%29.webp",
+        "bytes": 3448,
+        "height": 51,
+        "width": 298
+      },
+      {
+        "id": "687513708c2828fbc67e879c",
+        "_id": "687513708c2828fbc67e879c",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/687512dc19674369c0b4b463/attachments/6875136f8c2828fbc67e8793/previews/687513708c2828fbc67e879c/download/EA_SPORTS_FC_24_TU_%281%29.webp",
+        "bytes": 9852,
+        "height": 103,
+        "width": 600
+      },
+      {
+        "id": "687513708c2828fbc67e879d",
+        "_id": "687513708c2828fbc67e879d",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/687512dc19674369c0b4b463/attachments/6875136f8c2828fbc67e8793/previews/687513708c2828fbc67e879d/download/EA_SPORTS_FC_24_TU_%281%29.webp",
+        "bytes": 30288,
+        "height": 206,
+        "width": 1200
+      },
+      {
+        "id": "687513708c2828fbc67e879e",
+        "_id": "687513708c2828fbc67e879e",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/687512dc19674369c0b4b463/attachments/6875136f8c2828fbc67e8793/previews/687513708c2828fbc67e879e/download/EA_SPORTS_FC_24_TU_%281%29.webp",
+        "bytes": 61050,
+        "height": 329,
+        "width": 1920
+      }
+    ],
+    "edgeColor": "#1e2119",
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": [],
+  "actions": [
+    {
+      "id": "6878cd9eda631b5bec4bbf3c",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "desc": "Title Update #18 is now available for PS4 and XB1 versions of EA SPORTS FC 25, and it includes:\n\n**Ultimate Team**\n\nAddressed the following issues:\n\nSometimes, the Captain of a Rush lobby was not the team member in control of the goalkeeper.\n\n**Clubs**\n\nAddressed the following issues:\n\n- AI teammates did not display the Role + or Role ++ icons when viewing the players in the tactics screen.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some button callouts, portraits, kits, equipment, badges, as well as placeholder text and images.\n\nAddressed the following issues:\n\n- [PC Only] Addressed an issue where the EA Connect pop-up would not function when the Spotify widget was open.\n- Addressed some stability issues that could have occurred.\n- Addressed an issue where the Tactical Suggestions widget overlapped with other UI elements.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "Title Update #18 is now available for all versions of EA SPORTS FC 25, and it includes:\n\n**Ultimate Team**\n\nAddressed the following issues:\n\nSometimes, the Captain of a Rush lobby was not the team member in control of the goalkeeper.\n\n**Clubs**\n\nAddressed the following issues:\n\n- AI teammates did not display the Role + or Role ++ icons when viewing the players in the tactics screen.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some button callouts, portraits, kits, equipment, badges, as well as placeholder text and images.\n\nAddressed the following issues:\n\n- [PC Only] Addressed an issue where the EA Connect pop-up would not function when the Spotify widget was open.\n- Addressed some stability issues that could have occurred.\n- Addressed an issue where the Tactical Suggestions widget overlapped with other UI elements.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "687512dc19674369c0b4b463",
+          "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #18",
+          "idShort": 534,
+          "shortLink": "A8PAB5lA"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-07-17T10:17:02.245Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "68777c6de5446760506203a9",
+      "idMemberCreator": "55fab97406891939fbe4cb5e",
+      "data": {
+        "old": {
+          "desc": "Title Update #18 is now available for PS4 and XB1 versions of EA SPORTS FC 25, and it includes:\n\n**Ultimate Team**\n\nAddressed the following issues:\n\nSometimes, the Captain of a Rush lobby was not the team member in control of the goalkeeper.\n\n**Clubs**\n\nAddressed the following issues:\n\n- AI teammates did not display the Role + or Role ++ icons when viewing the players in the tactics screen.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some button callouts, portraits, kits, equipment, badges, as well as placeholder text and images.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed an issue where the Tactical Suggestions widget overlapped with other UI elements.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "Title Update #18 is now available for PS4 and XB1 versions of EA SPORTS FC 25, and it includes:\n\n**Ultimate Team**\n\nAddressed the following issues:\n\nSometimes, the Captain of a Rush lobby was not the team member in control of the goalkeeper.\n\n**Clubs**\n\nAddressed the following issues:\n\n- AI teammates did not display the Role + or Role ++ icons when viewing the players in the tactics screen.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some button callouts, portraits, kits, equipment, badges, as well as placeholder text and images.\n\nAddressed the following issues:\n\n- [PC Only] Addressed an issue where the EA Connect pop-up would not function when the Spotify widget was open.\n- Addressed some stability issues that could have occurred.\n- Addressed an issue where the Tactical Suggestions widget overlapped with other UI elements.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "687512dc19674369c0b4b463",
+          "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #18",
+          "idShort": 534,
+          "shortLink": "A8PAB5lA"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-07-16T10:18:21.594Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "55fab97406891939fbe4cb5e",
+        "activityBlocked": false,
+        "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+        "fullName": "D-Maks",
+        "idMemberReferrer": null,
+        "initials": "D",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "denissmaksimovs"
+      }
+    },
+    {
+      "id": "68777b3c9aa7225a6ee9a0e6",
+      "idMemberCreator": "55fab97406891939fbe4cb5e",
+      "data": {
+        "old": {
+          "name": "[PS4/XB1] Title Update #18"
+        },
+        "card": {
+          "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #18",
+          "id": "687512dc19674369c0b4b463",
+          "idShort": 534,
+          "shortLink": "A8PAB5lA"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-07-16T10:13:16.561Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "55fab97406891939fbe4cb5e",
+        "activityBlocked": false,
+        "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+        "fullName": "D-Maks",
+        "idMemberReferrer": null,
+        "initials": "D",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "denissmaksimovs"
+      }
+    },
+    {
+      "id": "6876218e5622879f2869c7c5",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "desc": "Title Update #18 will soon be available for PS4 and XB1 versions of EA SPORTS FC 25, and it includes:\n\n**Ultimate Team**\n\nAddressed the following issues:\n\nSometimes, the Captain of a Rush lobby was not the team member in control of the goalkeeper.\n\n**Clubs**\n\nAddressed the following issues:\n\n- AI teammates did not display the Role + or Role ++ icons when viewing the players in the tactics screen.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some button callouts, portraits, kits, equipment, badges, as well as placeholder text and images.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed an issue where the Tactical Suggestions widget overlapped with other UI elements.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "Title Update #18 is now available for PS4 and XB1 versions of EA SPORTS FC 25, and it includes:\n\n**Ultimate Team**\n\nAddressed the following issues:\n\nSometimes, the Captain of a Rush lobby was not the team member in control of the goalkeeper.\n\n**Clubs**\n\nAddressed the following issues:\n\n- AI teammates did not display the Role + or Role ++ icons when viewing the players in the tactics screen.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some button callouts, portraits, kits, equipment, badges, as well as placeholder text and images.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed an issue where the Tactical Suggestions widget overlapped with other UI elements.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "687512dc19674369c0b4b463",
+          "name": "[PS4/XB1] Title Update #18",
+          "idShort": 534,
+          "shortLink": "A8PAB5lA"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-07-15T09:38:22.982Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "687513871ff688296574044a",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "pos": 21503.984375
+        },
+        "card": {
+          "pos": 1535.984375,
+          "id": "687512dc19674369c0b4b463",
+          "name": "[PS4/XB1] Title Update #18",
+          "idShort": 534,
+          "shortLink": "A8PAB5lA"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-07-14T14:26:15.408Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "687513812ee6006083cf8066",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "idLabels": [
+            "66b64c66fe2b82a1a0bd8245",
+            "5f73f7c1b4c1280a7068dfeb"
+          ],
+          "id": "687512dc19674369c0b4b463",
+          "name": "[PS4/XB1] Title Update #18",
+          "idShort": 534,
+          "shortLink": "A8PAB5lA"
+        },
+        "old": {
+          "idLabels": [
+            "66b64c66fe2b82a1a0bd8245",
+            "5f73f7c1b4c1280a7068dfeb"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-07-14T14:26:09.707Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6875138007588dfd6ef37fc5",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "idLabels": [
+            "66b64c66fe2b82a1a0bd8245"
+          ],
+          "id": "687512dc19674369c0b4b463",
+          "name": "[PS4/XB1] Title Update #18",
+          "idShort": 534,
+          "shortLink": "A8PAB5lA"
+        },
+        "old": {
+          "idLabels": [
+            "66b64c66fe2b82a1a0bd8245"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-07-14T14:26:08.828Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "687513708c2828fbc67e87aa",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "attachment": {
+          "id": "6875136f8c2828fbc67e8793",
+          "name": "EA_SPORTS_FC_24_TU_(1).png",
+          "url": "https://trello.com/1/cards/687512dc19674369c0b4b463/attachments/6875136f8c2828fbc67e8793/download/EA_SPORTS_FC_24_TU_(1).png",
+          "previewUrl": "https://trello.com/1/cards/687512dc19674369c0b4b463/attachments/6875136f8c2828fbc67e8793/previews/preview/download/EA_SPORTS_FC_24_TU_%281%29.webp",
+          "previewUrl2x": "https://trello.com/1/cards/687512dc19674369c0b4b463/attachments/6875136f8c2828fbc67e8793/previews/preview2x/download/EA_SPORTS_FC_24_TU_%281%29.webp"
+        },
+        "card": {
+          "id": "687512dc19674369c0b4b463",
+          "name": "[PS4/XB1] Title Update #18",
+          "idShort": 534,
+          "shortLink": "A8PAB5lA"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "addAttachmentToCard",
+      "date": "2025-07-14T14:25:52.424Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "68751337a43cdf3365b5dcd3",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "desc": ""
+        },
+        "card": {
+          "desc": "Title Update #18 will soon be available for PS4 and XB1 versions of EA SPORTS FC 25, and it includes:\n\n**Ultimate Team**\n\nAddressed the following issues:\n\nSometimes, the Captain of a Rush lobby was not the team member in control of the goalkeeper.\n\n**Clubs**\n\nAddressed the following issues:\n\n- AI teammates did not display the Role + or Role ++ icons when viewing the players in the tactics screen.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some button callouts, portraits, kits, equipment, badges, as well as placeholder text and images.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed an issue where the Tactical Suggestions widget overlapped with other UI elements.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "687512dc19674369c0b4b463",
+          "name": "[PS4/XB1] Title Update #18",
+          "idShort": 534,
+          "shortLink": "A8PAB5lA"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-07-14T14:24:55.425Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "687512dc19674369c0b4b49f",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "id": "687512dc19674369c0b4b463",
+          "name": "[PS4/XB1] Title Update #18",
+          "idShort": 534,
+          "shortLink": "A8PAB5lA"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-07-14T14:23:24.807Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    }
+  ]
+}
